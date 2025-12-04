@@ -1,7 +1,7 @@
 # IBM Coursera — Deep Learning with PyTorch, Keras and TensorFlow
 
 Brief collection of personal notes, example notebooks and exercises for the "Deep Learning with PyTorch, Keras and TensorFlow" Coursera course. This repo holds code, experiments and small datasets used while following the course.
-
+   
 ## Repo layout
 - `notebooks/` — Jupyter notebooks for each module (PyTorch, Keras, TensorFlow)
 - `README.md` — this file
